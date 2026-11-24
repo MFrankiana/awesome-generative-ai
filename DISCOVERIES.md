@@ -68,6 +68,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
 
+- [Literess](https://literess.com) - Writing companion for long manuscripts: reads the whole book page by page, comments in the margin and proposes edits as tracked suggestions; it does not draft text for you.
+
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
